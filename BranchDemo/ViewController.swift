@@ -19,5 +19,6 @@ class ViewController: UIViewController {
     print ("ANother print")
     print("Changes made locally")
     print("Didn't work for separate commit and push")
+    Wooo Hooo It's working
 }
 
