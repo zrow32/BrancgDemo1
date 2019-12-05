@@ -17,5 +17,7 @@ class ViewController: UIViewController {
 
    print ("FirstVC")
     print ("ANother print")
+    print("Changes made locally")
+    print("Didn't work for separate commit and push")
 }
 
