@@ -20,9 +20,9 @@ class ViewController: UIViewController {
     print("Changes made locally")
     print("Didn't work for separate commit and push")
     Wooo Hooo It's working
-  Send to yet
-    another change on local 
-    more changed
-    MAke ready to merge to naster
+
+    21 is working now
+    
+    For some reason 21 doesn't work
 }
 
