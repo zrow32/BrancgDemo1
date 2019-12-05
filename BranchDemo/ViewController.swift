@@ -21,7 +21,8 @@ class ViewController: UIViewController {
     print("Didn't work for separate commit and push")
     Wooo Hooo It's working
   Send to yet
-    another change on local
+    another change on local 
     more changed
+    MAke ready to merge to naster
 }
 
