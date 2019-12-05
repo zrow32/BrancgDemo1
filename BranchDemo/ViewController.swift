@@ -15,6 +15,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+   print ("FirstVC")
+    print ("ANother print")
+    print("Changes made locally")
+    print("Didn't work for separate commit and push")
+    Wooo Hooo It's working
+  Send to yet
+    another change on local 
+    more changed
+    MAke ready to merge to naster
 }
 
